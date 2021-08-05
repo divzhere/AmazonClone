@@ -19,7 +19,7 @@ function Home() {
               "https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
             }
             rating={4}
-            price={"215.00"}
+            price={215.0}
           />
           <Product
             title={
@@ -27,7 +27,7 @@ function Home() {
             }
             image={"https://m.media-amazon.com/images/I/61-DjUz7JxL.jpg"}
             rating={5}
-            price={"7,999.00"}
+            price={7999.0}
           />
         </div>
         <div className="home_row">
@@ -39,9 +39,9 @@ function Home() {
               "https://m.media-amazon.com/images/I/81a-rN2A3DS._SL1500_.jpg"
             }
             rating={4}
-            price={"83,390.00"}
+            price={83390.0}
           />
-           <Product
+          <Product
             title={
               "Echo Dot (3rd Gen, Black) combo with Fire TV Stick and Wipro 9W LED smart color bulb"
             }
@@ -49,17 +49,15 @@ function Home() {
               "https://m.media-amazon.com/images/I/41lyo5XUo+S._SL1000_.jpg"
             }
             rating={4}
-            price={"6098.00"}
+            price={6098.0}
           />
-           <Product
-            title={
-              "New Apple iPhone 11 (64GB) - (Product) RED"
-            }
+          <Product
+            title={"New Apple iPhone 11 (64GB) - (Product) RED"}
             image={
               "https://m.media-amazon.com/images/I/71hh7cpWadL._SL1500_.jpg"
             }
             rating={5}
-            price={"50,999.00"}
+            price={50999.0}
           />
         </div>
         <div className="home_row">
@@ -71,7 +69,7 @@ function Home() {
               "https://m.media-amazon.com/images/I/71S9dis6PRL._SL1500_.jpg"
             }
             rating={4}
-            price={"39,399.00"}
+            price={39399.0}
           />
         </div>
       </div>
